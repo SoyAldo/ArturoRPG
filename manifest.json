@@ -47,6 +47,17 @@
       "changelog": [
         "Actualización v1.1.2"
       ]
+    },
+    {
+      "version": "1.2.0",
+      "name": "Actualización v1.2.0",
+      "releaseDate": "2026-11-04",
+      "url": "https://github.com/SoyAldo/ArturoRPG/releases/download/v1.2.0/update-1.2.0.zip",
+      "sha256": "1ecbd558a2e5d279e6391c375312ebf3e4ad309065e5ce80ec4ee1d5c0fccc2b",
+      "size": 263,
+      "changelog": [
+        "Actualización v1.2.0"
+      ]
     }
   ]
 }
