@@ -2,7 +2,7 @@
   "modpack": "Arturo RPG - Temporada 1",
   "minecraftVersion": "1.21.1",
   "forgeVersion": "47.2.20",
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.1.0",
   "updates": [
     {
       "version": "1.0.0",
@@ -13,6 +13,17 @@
       "size": 1321425271,
       "changelog": [
         "Actualización v1.0.0"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "name": "Actualización v1.1.0",
+      "releaseDate": "2026-11-04",
+      "url": "https://github.com/SoyAldo/ArturoRPG/releases/download/v1.1.0/update-1.1.0.zip",
+      "sha256": "a924c13ffdbcd26c9662416cf88d0127e91583a38499966bff5ecadfe547b05d",
+      "size": 3957200,
+      "changelog": [
+        "Actualización v1.1.0"
       ]
     }
   ]
